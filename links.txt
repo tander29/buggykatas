@@ -1,0 +1,32 @@
+grasshopper temperature C
+https://www.codewars.com/kata/reviews/5623ccd5762213e8dc0000c4/groups/5bf315c31a16b0418c0019b0
+
+string template bug fixing
+https://www.codewars.com/kata/reviews/55c97c5cc941432d52000098/groups/55c9959fe11a8eff9f000034
+
+fix the loop:
+https://www.codewars.com/kata/reviews/55ca4402b1a4114ef800008a/groups/55ca4402b1a4114ef800008c
+
+compare numbers:
+https://www.codewars.com/kata/reviews/55d892d3ce5342c518000107/groups/55d892d3ce5342c518000109
+
+unexpected parsing
+https://www.codewars.com/kata/reviews/564c83c2cd44043d9b000017/groups/564cf603fdbed3963a000038
+
+handful of dogs:
+https://www.codewars.com/kata/reviews/56f6b7cd9b6590d2d80000e8/groups/5919c935a901f8845700011d
+
+fix the bugs my first kata:
+https://www.codewars.com/kata/reviews/56c9906d186f8221a0000037/groups/56cb19d3145912ba87000fa0
+
+squash the bugs:
+https://www.codewars.com/kata/reviews/56f7d4c38abc385c18000002/groups/5bf326af29354d8fea0004f7
+
+is this my tail:
+https://www.codewars.com/kata/reviews/56f7d47f1dc33806c8000071/groups/576f4a984c32040fb9000300
+
+garden plants:
+https://www.codewars.com/kata/reviews/5716bac801b0bfa81c000049/groups/571756ff2668e24adb0014f0
+
+quick sort:
+https://www.codewars.com/kata/reviews/56bdaa2ebe8f29257c000087/groups/5bf32e1729354d5f8800058d
